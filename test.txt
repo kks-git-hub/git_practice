@@ -3,3 +3,6 @@ Hello World
 Updated with Hey World
 
 Third Update 
+
+Create new feature/cool_feature branch and editing the file test.txt to commit to Git repo
+
