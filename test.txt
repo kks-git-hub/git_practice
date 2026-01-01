@@ -6,3 +6,5 @@ Third Update
 
 Create new feature/cool_feature branch and editing the file test.txt to commit to Git repo
 
+This is fix/critical_bug new branch
+
